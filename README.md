@@ -4,4 +4,4 @@ In this personal project, I pulled data from baseball reference and created a si
 
 By: Holden Bridge
 
-August 2020 (Most recently updated on August 26th, 2020)
+August 2020 (Most recently updated on September 28th, 2020)
